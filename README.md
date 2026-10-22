@@ -113,16 +113,17 @@ Based on the dashboard analysis, the following recommendations can be considered
 
 ## Project Structure
 
+```text
 Indian-tech-jobs-analysis/
 ├── Dataset/
-│    └── Cleaned_data.xlsx  
-│    └── Raw_data.xlsx
+│   ├── Cleaned_data.xlsx
+│   └── Raw_data.xlsx
 ├── Excel/
 │   └── Excel_cleaned_data.xlsx
 ├── Images/
 │   └── Indian tech jobs analysis IMG.jpg
 ├── Notebooks/
-│   └── Import data from excel to MySQL.ipynb
+│   ├── Import data from excel to MySQL.ipynb
 │   └── Python_EDA.ipynb
 ├── PowerBI/
 │   └── PowerBI_dashboard.pbix
@@ -131,7 +132,7 @@ Indian-tech-jobs-analysis/
 ├── Reports/
 │   └── Project_findings.txt
 └── README.md
-
+```
 
 ## Skills Demonstrated
 
@@ -150,8 +151,6 @@ Indian-tech-jobs-analysis/
 - Analytical Problem-Solving
 - Data Documentation and Presentation
 
-
-## Future Improvements
 
 ## Future Improvements
 

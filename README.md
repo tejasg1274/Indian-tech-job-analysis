@@ -71,7 +71,7 @@ The insights from this analysis can help job seekers understand the opportunitie
 
 ### Dashboard Preview
 
-![Dashboard Preview](https://github.com/tejasg1274/Indian-tech-job-analysis/tree/main/Images)
+![Dashboard Preview](https://github.com/tejasg1274/Indian-tech-job-analysis/blob/main/Images/Indian%20tech%20jobs%20analysis%20IMG.jpg)
 
 **Interactive Report:** Open `PowerBI/Indian_Tech_Jobs_Dashboard.pbix` in Power BI Desktop to explore the report.
 

@@ -31,7 +31,7 @@ The insights from this analysis can help job seekers understand the opportunitie
 
 - Clean and prepare job posting data to ensure data quality and consistency.
 - Perform exploratory data analysis to understand job market patterns and trends.
-- Use SQL queries to analyze job postings and answer relevant business questions.
+- Use SQL queries to analyze job postings and answer relevant questions.
 - Analyze job demand across different technology roles and Indian cities.
 - Compare average salary levels across job categories to understand salary variations.
 - Examine job posting distribution across company sizes and work modes.
@@ -63,17 +63,17 @@ The insights from this analysis can help job seekers understand the opportunitie
 1. **Data Inspection:** Examined the dataset structure, columns, and data quality to understand the job posting data.
 2. **Data Cleaning:** Cleaned and prepared the job posting data in Excel to improve data quality and consistency.
 3. **Exploratory Data Analysis:** Used Python and Pandas to explore job demand, salary patterns, experience requirements, and other job market characteristics.
-4. **Data Import into MySQL:** Used Python and Pandas to import the cleaned Excel dataset into a MySQL database for structured data storage and further analysis.
-5. **SQL Analysis:** Used SQL queries to analyze job postings, compare job categories, and answer relevant business questions.
+4. **Data Import into MySQL:** Used Python to import the cleaned Excel dataset into a MySQL database for structured data storage and further analysis.
+5. **SQL Analysis:** Used SQL queries to analyze job postings, compare job categories, and answer relevant questions.
 6. **Dashboard Development:** Imported the cleaned Excel dataset into Power BI and developed an interactive dashboard to visualize key metrics, job demand, salary patterns, company sizes, and work mode distribution.
-7. **Documentation:** Organized project files and documented the analytical workflow, business objectives, and findings for portfolio presentation.
+7. **Documentation:** Organized project files and documented the analytical workflow, objectives, and findings for portfolio presentation.
 
 
 ### Dashboard Preview
 
 ![Dashboard Preview](https://github.com/tejasg1274/Indian-tech-job-analysis/blob/main/Images/Indian%20tech%20jobs%20analysis%20IMG.jpg)
 
-**Interactive Report:** Open `PowerBI/Indian_Tech_Jobs_Dashboard.pbix` in Power BI Desktop to explore the report.
+**Interactive Report:** Open `PowerBI/PowerBI_Dashboard.pbix` in Power BI Desktop to explore the report.
 
 
 ## Key Findings
@@ -133,6 +133,7 @@ Indian-tech-jobs-analysis/
 │   └── Project_findings.txt
 └── README.md
 ```
+
 
 ## Skills Demonstrated
 

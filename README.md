@@ -4,18 +4,18 @@
 
 1. This project focuses on analyzing the Indian technology job market using Excel, Python, MySQL, and Power BI.
 
-2. The objective is to transform raw job posting data into meaningful business insights that help understand hiring demand, job locations, role categories, salary patterns, experience requirements, work modes, and fresher-friendly opportunities.
+2. The objective is to transform raw job posting data into meaningful insights that help understand hiring demand, job locations, role categories, salary patterns, experience requirements, work modes, and fresher-friendly opportunities.
 
 3. The project follows an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL-based data analysis and interactive dashboard development.
 
 
-## Business Problem
+## Problem
 
 The Indian technology job market offers opportunities across different job roles, cities, company sizes, and experience levels. However, understanding job demand, salary differences, work arrangements, and opportunities for freshers can be challenging when dealing with a large volume of job postings.
 
 This project analyzes Indian tech job posting data to understand hiring patterns, compare salary levels across technology roles, and examine how job opportunities are distributed across locations, experience levels, and work modes.
 
-The analysis aims to address the following business questions:
+The analysis aims to address the following questions:
 
 - Which technology roles have the highest hiring demand in the dataset?
 - How do salary levels differ across various job roles?

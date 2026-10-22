@@ -102,7 +102,7 @@ Based on the Power BI dashboard analysis, the following findings were observed:
 Based on the dashboard analysis, the following recommendations can be considered:
 
 1. **Role-Based Career Planning:** Data Scientist and Data Analyst roles have a high number of postings in the dataset. Job seekers can explore these roles and compare their required skills and experience before choosing a career path.
-2. **Location-Based Job Search:** Use the Top 10 Cities analysis to identify locations with more job postings and prioritize job searches according to location preferences and relocation options.
+2. **Location-Based Job Search:** Use the Top 10 Cities analysis to identify locations with more job postings and prioritize job searches according to location preferences and relocation options.  
 3. **Salary Comparison:** Compare average salary midpoint values across job roles to understand the salary differences between technology careers. Verify salary ranges and experience requirements before making career decisions.
 4. **Work Mode Planning:** Since on-site jobs represent approximately 81.3% of the postings, job seekers should consider on-site opportunities alongside hybrid and remote roles rather than focusing exclusively on remote jobs.
 5. **Fresher Opportunity Assessment:** Use the fresher-friendly classification and experience-level filters to identify potentially suitable entry-level opportunities. Review each job description to confirm its actual eligibility criteria.
@@ -115,21 +115,22 @@ Based on the dashboard analysis, the following recommendations can be considered
 
 Indian-tech-jobs-analysis/
 ├── Dataset/
-│   └── Cleaned_data.xlsx
+│    └── Cleaned_data.xlsx  
+│    └── Raw_data.xlsx
 ├── Excel/
 │   └── Excel_cleaned_data.xlsx
 ├── Images/
-│   └── Indian_Tech_Jobs_Dashboard_IMG.jpg
+│   └── Indian tech jobs analysis IMG.jpg
 ├── Notebooks/
+│   └── Import data from excel to MySQL.ipynb
 │   └── Python_EDA.ipynb
 ├── PowerBI/
 │   └── PowerBI_dashboard.pbix
 ├── SQL/
-│   └── SQL_Queries.sql
+│   └── Queries.sql
 ├── Reports/
 │   └── Project_findings.txt
 └── README.md
-
 
 
 ## Skills Demonstrated
@@ -149,15 +150,21 @@ Indian-tech-jobs-analysis/
 - Analytical Problem-Solving
 - Data Documentation and Presentation
 
+
 ## Future Improvements
 
-- Perform a more detailed analysis of individual technical skills after normalizing the skills data.
-- Compare salary distributions across job roles, experience levels, and cities.
-- Analyze job posting trends over time when reliable posting dates are available.
-- Improve the classification of fresher-friendly opportunities using clearly defined criteria.
-- Add more interactive dashboard features and drill-through analysis.
-- Refresh the dataset periodically to monitor changes in hiring demand and skill requirements.
-- Publish the report through an appropriate Power BI sharing option, subject to access and data permissions.
+## Future Improvements
+
+- Enhance the job role analysis to compare hiring demand across different technology roles in greater detail.
+- Improve salary analysis by comparing average salary levels across job roles and experience categories.
+- Expand the city analysis to explore job posting distribution across more locations and identify regional hiring patterns.
+- Add more detailed analysis of company size categories to better understand job posting distribution across different types of organizations.
+- Enhance the work mode analysis to compare on-site, hybrid, and remote job opportunities across different roles and cities.
+- Improve the fresher-friendly analysis by validating job eligibility criteria and comparing entry-level opportunities across job roles.
+- Add interactive filters and drill-through features to allow users to explore job postings by role, city, experience level, and work mode.
+- Refresh the dataset periodically to monitor changes in job demand, salary levels, and work mode distribution over time.
+- Improve dashboard documentation and publish the report through an appropriate Power BI sharing option, subject to access and data permissions.
+
 
 ## Author & Contact
 
